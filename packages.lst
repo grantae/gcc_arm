@@ -1,0 +1,6 @@
+binutils-2.24 http://ftp.gnu.org/gnu/binutils/binutils-2.24.tar.gz
+gcc-4.9.1     http://ftp.gnu.org/gnu/gcc/gcc-4.9.1/gcc-4.9.1.tar.gz
+mpfr-3.1.2    http://www.mpfr.org/mpfr-3.1.2/mpfr-3.1.2.tar.gz
+mpc-1.0.2     ftp://ftp.gnu.org/gnu/mpc/mpc-1.0.2.tar.gz
+gmp-6.0.0     https://ftp.gnu.org/gnu/gmp/gmp-6.0.0a.tar.bz2
+newlib-2.2.0  ftp://sourceware.org/pub/newlib/newlib-2.2.0.tar.gz
